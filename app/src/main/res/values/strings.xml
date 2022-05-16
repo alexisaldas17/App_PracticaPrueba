@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App_PracticaPrueba</string>
+
+
+    <string name="textView_Nombres">Nombres</string>
+    <string name="textView_hint_Nombres">Ingrese Nombres</string>
+    <string name="textView_Apellidos">Apellidos</string>
+    <string name="textView_Base">Base</string>
+    <string name="textView_Exponente">Exponente</string>
+    <string name="textView_Factorial">Factorial</string>
+    <string name="textView_Potencia">Potencia</string>
+    <string name="button_text_Siguiente">SIGUIENTE</string>
+    <string name="button_text_Cerrar">CERRAR</string>
+    <string name="button_text_MostrarResultados">MOSTRAR RESULTADOS</string>
+    <string name="et_hint_Nombre">Ingrese nombres</string>
+    <string name="et_hint_Apellido">Ingrese apellido</string>
+    <string name="et_hint_Base">Ingrese base</string>
+    <string name="et_hint_Exponente">Ingrese exponente</string>
+    <string name="et_hint_Factorial">Ingrese factorial</string>
+    <string name="et_hint_Potencia">Ingrese potencia</string>
+    <string name="et_hint_Numero">Ingrese numero</string>
+
+
+
+
+</resources>
